@@ -60,17 +60,17 @@
     </div>
     <h2 font-weight="bold">Back End</h2>
     <div align="left">
-        <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"></code>
-        <code><img alt="CodeIgniter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-original.svg"></code>
+        <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
+        <code><img alt="CodeIgniter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg"></code>
         <code><img alt="Symfony" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"></code>
         <code><img alt="Yii" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg"></code>
-        <code><img alt="Zend" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-original.svg"></code>
+        <code><img alt="Zend" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain.svg"></code>
         <code><img alt="WordPress" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></code>
         <code><img alt="Woocommerce" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"></code>
         <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-        <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
+        <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
         <code><img alt="Flask" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
-        <code><img alt="Graphql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original.svg"></code>
+        <code><img alt="Graphql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
         <code><img alt="Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
         <code><img alt="Dot Net" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"></code>
     </div>
@@ -85,7 +85,6 @@
     <div align="left">
         <code><img alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
         <code><img alt="Sqlite" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
-        <code><img alt="MariaDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg"></code>
         <code><img alt="PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
         <code><img alt="Oracle" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
         <code><img alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
