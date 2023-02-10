@@ -1,4 +1,7 @@
-<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=jasonhall0081.jasonhall0081" alt="Visitors">
+<div>
+    <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=jasonhall0081.jasonhall0081" alt="Visitors">
+</div>
+
 <div id="header" align="center">
   <img src="Assets/avatar.png" width="100"/>
 </div>
@@ -14,13 +17,13 @@
 
 ## <div align="center"> <img src="Assets/Hi.gif" height="40" /><img src="https://readme-typing-svg.demolab.com/?lines=Hi, there I'm Jason!; I am a Senior Full Stack Developer&font=Fira%20Code&center=true&width=550&height=45&color=000000&vCenter=true&pause=1000&size=26" /><img src="Assets/Hi.gif" height="40" /> </div>
 
-<h2 font-weight="bold"> About Me </h2>
+<h1 font-weight="bold"> About Me </h1>
 <img align="right" alt="JPG" src="Assets/1.jpg" width="300" />
-<h3>
+<h2>
     A highly experienced and creative full stack developer with 7 years’ experience in a variety of exciting projects. A level head and rational approach to problem solving combined with a passion for innovative and fresh ideas has led to hands-on experience of impressive website solutions. Technically competent and industry aware means that each project is undertaken with the most up-to-date and relevant programming foundations available. Extremely
     good understanding of software development life cycle and agile methodologies.
 
-</h3>
+</h2>
 
 <div>
     <h2 font-weight="bold">Programming Language</h2>
@@ -98,7 +101,7 @@
         <code><img alt="Heroku" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
     </div>
 </div>
-
+<br>
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasonhall0081&theme=icegray)](https://git.io/streak-stats)
