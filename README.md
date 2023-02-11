@@ -1,7 +1,3 @@
-<div>
-    <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=jasonhall0081.jasonhall0081" alt="Visitors">
-</div>
-
 <div id="header" align="center">
   <img src="Assets/avatar.png" width="100"/>
 </div>
@@ -12,11 +8,15 @@
     <a href="https://join.skype.com/invite/IiQLp2bWl5Yi">
         <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/jason-hall-96b730265/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
 ## <div align="center"> <img src="Assets/Hi.gif" height="40" /><img src="https://readme-typing-svg.demolab.com/?lines=Hi, there I'm Jason!; I am a Senior Full Stack Developer&font=Fira%20Code&center=true&width=550&height=45&color=000000&vCenter=true&pause=1000&size=26" /><img src="Assets/Hi.gif" height="40" /> </div>
-
+<div>
+<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=jasonhall0081.jasonhall0081" alt="Visitors">
+</div>
 <h1 font-weight="bold"> About Me </h1>
 <img align="right" alt="JPG" src="Assets/1.jpg" width="300" />
 <h2>
@@ -107,4 +107,5 @@
 
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonhall0081&show_icons=true&include_all_commits=true&theme=icegray&hide_border=true" alt="Jason's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhall0081&layout=compact&theme=icegray&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonhall0081&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Jason's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhall0081&layout=compact&theme=tokyonight&hide_border=true" />
