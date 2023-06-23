@@ -8,9 +8,6 @@
     <a href="https://join.skype.com/invite/IiQLp2bWl5Yi">
         <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/jason-hall-96b730265/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
 </div>
 
 ## <div align="center"> <img src="Assets/Hi.gif" height="40" /><img src="https://readme-typing-svg.demolab.com/?lines=Hi, there I'm Jason!; I am a Senior Full Stack Developer&font=Fira%20Code&center=true&width=550&height=45&color=000000&vCenter=true&pause=1000&size=26" /><img src="Assets/Hi.gif" height="40" /> </div>
@@ -101,11 +98,4 @@
     </div>
 </div>
 <br>
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasonhall0081&theme=icegray)](https://git.io/streak-stats)
-
-</div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonhall0081&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Jason's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhall0081&layout=compact&theme=tokyonight&hide_border=true" />
